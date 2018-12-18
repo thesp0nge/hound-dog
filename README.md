@@ -3,8 +3,8 @@
 <!-- language: lang-none -->
         / \___      
        (    - \___    HOUNDDOG - your web hunter
-      /          O 
-     /    (_____/ 
+      /           O 
+     /    (______/ 
     /____/            
 
 Hounddog is a python script to be used in a web application penetration test to
