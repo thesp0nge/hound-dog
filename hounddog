@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+
+print("The fun is starting\n")
